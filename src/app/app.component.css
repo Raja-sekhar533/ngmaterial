@@ -1,0 +1,45 @@
+button{
+  margin-right: 3rem;
+}
+.ripple{
+width: 200px;
+height: 200px;
+border: 2px solid red;
+}
+.example-chip-list {
+  width: 100%;
+}
+.navbar{
+  justify-content: space-between;
+}
+span{
+  padding-right: 1rem;
+}
+mat-sidenav-container{
+  height: 100%;
+}
+mat-sidenav, mat-sidenav-content{
+  padding: 20px;
+}
+mat-sidenav{
+  background-color: aqua;
+  width: 300px;
+}
+mat-grid-tile{
+  background-color:aqua;
+}
+mat-card{
+  margin: 15px;
+  width:200px;
+background-color: darkorange;
+}
+.chip{
+background-image: url('raj1.jpg');
+background-size: cover;
+}
+img{
+ width: 190px;
+}
+label{
+  margin: 2rem;
+}
